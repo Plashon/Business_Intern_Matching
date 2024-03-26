@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="index.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Business Intern Matching</title>
+</head>
+<body>
+    <h1>Business Intern Matching</h1>
+    <div class="container">
+        <div class="business">
+            <h2>Businesses:</h2>
+            <ul id="business-list"></ul>
+            <div id="company-details"></div>
+        </div>
+        
+        <div class="intern">
+            <h2>Interns:</h2>
+            <ul id="intern-list"></ul>
+            <div id="intern-details"></div>
+           
+        </div>
+    </div>
+    <h2>Matching Results:</h2>
+    <input
+      type="text"
+      id="searchBusiness"
+      placeholder="Search by Business Name"
+      oninput="searchBusiness()"
+    />
+    <div id="pagination">
+      <button onclick="prevPage()">Previous</button>
+      <button onclick="nextPage()">Next</button>
+    </div>
+
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Business</th>
+          <th>Intern</th>
+          <th>Common Skills</th>
+        </tr>
+      </thead>
+      <tbody id="match-table"></tbody>
+    </table>
+
+    <script src="script.js"></script>
+  </body>
+</html>

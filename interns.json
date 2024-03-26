@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "skills": ["programming", "design"],
+    "email": "john.doe@email.com",
+    "education": "Bachelor's in Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "skills": ["marketing", "finance"],
+    "email": "jane.smith@email.com",
+    "education": "Master's in Business Administration"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "skills": ["programming", "finance"],
+    "email": "alice.johnson@email.com",
+    "education": "Bachelor's in Finance"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "skills": ["design", "marketing"],
+    "email": "bob.brown@email.com",
+    "education": "Bachelor's in Design"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "skills": ["finance", "programming"],
+    "email": "charlie.davis@email.com",
+    "education": "Master's in Finance"
+  },
+  {
+    "id": 6,
+    "name": "David Wilson",
+    "skills": ["marketing", "design"],
+    "email": "david.wilson@email.com",
+    "education": "Bachelor's in Marketing"
+  },
+  {
+    "id": 7,
+    "name": "Eva Miller",
+    "skills": ["programming", "finance"],
+    "email": "eva.miller@email.com",
+    "education": "Master's in Computer Science"
+  },
+  {
+    "id": 8,
+    "name": "Frank White",
+    "skills": ["design", "marketing"],
+    "email": "frank.white@email.com",
+    "education": "Bachelor's in Design"
+  },
+  {
+    "id": 9,
+    "name": "Grace Lee",
+    "skills": ["finance", "programming"],
+    "email": "grace.lee@email.com",
+    "education": "Master's in Finance"
+  },
+  {
+    "id": 10,
+    "name": "Helen Harris",
+    "skills": ["marketing", "design"],
+    "email": "helen.harris@email.com",
+    "education": "Bachelor's in Marketing"
+  }
+]

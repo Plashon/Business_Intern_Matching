@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Business A",
+    "address": "Address A",
+    "industry": "Industry A",
+    "website": "https://www.businessA.com",
+    "skills": ["programming", "marketing"]
+  },
+  {
+    "id": 2,
+    "name": "Business B",
+    "address": "Address B",
+    "industry": "Industry B",
+    "website": "https://www.businessB.com",
+    "skills": ["design", "programming"]
+  },
+  {
+    "id": 3,
+    "name": "Business C",
+    "address": "Address C",
+    "industry": "Industry C",
+    "website": "https://www.businessC.com",
+    "skills": ["marketing", "finance"]
+  },
+  {
+    "id": 4,
+    "name": "Business D",
+    "address": "Address D",
+    "industry": "Industry D",
+    "website": "https://www.businessD.com",
+    "skills": ["programming", "finance"]
+  },
+  {
+    "id": 5,
+    "name": "Business E",
+    "address": "Address E",
+    "industry": "Industry E",
+    "website": "https://www.businessE.com",
+    "skills": ["design", "marketing"]
+  },
+  {
+    "id": 6,
+    "name": "Business F",
+    "address": "Address F",
+    "industry": "Industry F",
+    "website": "https://www.businessF.com",
+    "skills": ["finance", "programming"]
+  },
+  {
+    "id": 7,
+    "name": "Business G",
+    "address": "Address G",
+    "industry": "Industry G",
+    "website": "https://www.businessG.com",
+    "skills": ["marketing", "design"]
+  },
+  {
+    "id": 8,
+    "name": "Business H",
+    "address": "Address H",
+    "industry": "Industry H",
+    "website": "https://www.businessH.com",
+    "skills": ["programming", "finance"]
+  },
+  {
+    "id": 9,
+    "name": "Business I",
+    "address": "Address I",
+    "industry": "Industry I",
+    "website": "https://www.businessI.com",
+    "skills": ["design", "marketing"]
+  },
+  {
+    "id": 10,
+    "name": "Business J",
+    "address": "Address J",
+    "industry": "Industry J",
+    "website": "https://www.businessJ.com",
+    "skills": ["programming", "finance"]
+  }
+]
